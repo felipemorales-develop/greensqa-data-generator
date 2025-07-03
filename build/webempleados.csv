@@ -1,0 +1,31 @@
+ID,Nombre,Apellido,Cargo,Correo,Teléfono
+1,Juan,Gómez,Analista,empleado0@empresa.com,3001135076
+2,Juan,Pérez,Tester,empleado1@empresa.com,3002888491
+3,Ana,Martínez,Analista,empleado2@empresa.com,3005242685
+4,Carlos,Rodríguez,Desarrollador,empleado3@empresa.com,3007092049
+5,Laura,Martínez,Scrum Master,empleado4@empresa.com,3005838486
+6,Carlos,Gómez,Scrum Master,empleado5@empresa.com,3007724860
+7,Ana,Gómez,Tester,empleado6@empresa.com,3005408028
+8,Juan,Pérez,Analista,empleado7@empresa.com,3009223685
+9,Laura,López,Tester,empleado8@empresa.com,3003209316
+10,Sofía,Gómez,Desarrollador,empleado9@empresa.com,3004157263
+11,Sofía,Rodríguez,Analista,empleado0@empresa.com,3001415680
+12,Carlos,Martínez,Tester,empleado1@empresa.com,3004170554
+13,Sofía,Martínez,Desarrollador,empleado2@empresa.com,3006699405
+14,Carlos,Pérez,Analista,empleado3@empresa.com,3002031738
+15,Carlos,Rodríguez,Tester,empleado4@empresa.com,3002577110
+16,Carlos,Rodríguez,Scrum Master,empleado5@empresa.com,3003687699
+17,Sofía,López,Scrum Master,empleado6@empresa.com,3002288999
+18,Laura,Gómez,Desarrollador,empleado7@empresa.com,3006612058
+19,Sofía,Gómez,Tester,empleado8@empresa.com,3004527089
+20,Sofía,Rodríguez,Tester,empleado9@empresa.com,3001171122
+21,Juan,Rodríguez,Tester,empleado0@empresa.com,3008052993
+22,Laura,López,Scrum Master,empleado1@empresa.com,3009042119
+23,Ana,López,Tester,empleado2@empresa.com,3007721750
+24,Ana,López,Analista,empleado3@empresa.com,3008595054
+25,Sofía,Rodríguez,Tester,empleado4@empresa.com,3002408993
+26,Laura,López,Tester,empleado5@empresa.com,3005105238
+27,Juan,Rodríguez,Analista,empleado6@empresa.com,3008180986
+28,Sofía,López,Scrum Master,empleado7@empresa.com,3009486533
+29,Laura,Pérez,Desarrollador,empleado8@empresa.com,3001210980
+30,Laura,Rodríguez,Analista,empleado9@empresa.com,3009205897
