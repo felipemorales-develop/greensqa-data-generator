@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>GSQA - Generador de Empleados</title>
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 <body>
     <h1>Generador de Datos Ficticios</h1>
