@@ -13,7 +13,6 @@ Este proyecto corresponde a la Parte 1 del reto técnico de GreenSQA, que consis
 - MySQL (via XAMPP)
 - JDBC
 - HTML5 / CSS3
-- Bootstrap (opcional)
 
 ---
 
